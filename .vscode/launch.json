@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:macbook-cleaner}",
+            "name": "Debug KeyboardCleaner",
+            "target": "KeyboardCleaner",
+            "configuration": "debug",
+            "preLaunchTask": "swift: Build Debug KeyboardCleaner"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:macbook-cleaner}",
+            "name": "Release KeyboardCleaner",
+            "target": "KeyboardCleaner",
+            "configuration": "release",
+            "preLaunchTask": "swift: Build Release KeyboardCleaner"
+        }
+    ]
+}
