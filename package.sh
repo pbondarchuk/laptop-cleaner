@@ -38,9 +38,15 @@ Keyboard Cleaner — installation
 3. The app will ask for Accessibility access — this is what lets it block
    the keyboard or trackpad while you clean. Click "Open System Settings",
    turn on the switch for Keyboard Cleaner, then click Continue.
+   (Cleaning the screen doesn't need this permission.)
 
-That's it. Click a zone to lock it; unlock with the on-screen button
-(keyboard mode) or the Escape key (trackpad mode).
+How to use it — the window shows a MacBook. Click the part you want to clean:
+  • Screen   — the display goes black so you can wipe it. Press any key to
+               restore it.
+  • Keyboard — typing is blocked (including Caps Lock and the F-keys). Click
+               "Unlock Keyboard" on the trackpad, or hold Escape, to unlock.
+  • Trackpad — the pointer freezes and clicks/scrolling are ignored. Press
+               Escape to unlock.
 
 Requires an Apple Silicon Mac (M1 or later) running macOS 13 or newer.
 TXT
